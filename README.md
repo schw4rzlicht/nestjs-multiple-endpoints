@@ -28,6 +28,6 @@ Run `npm run start:dev` again and see that it's working.
 
 Currently, `Endpoint2Module` is a dependency of `Endpoint1Module`. This is of course only
 for demo purposes, there is no real dependency here. Just go ahead and follow the instructions in
-`src/endpoint1.module.ts`.
+`src/endpoint1/endpoint1.module.ts`.
 
 Run `npm run start:dev` again and see that it's working.
