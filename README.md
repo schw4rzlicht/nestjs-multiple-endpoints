@@ -1,5 +1,7 @@
 # Multiple endpoints demo
 
+Minimal reproduction for https://github.com/nestjs/graphql/issues/2225.
+
 Apparently, `@nestjs/graphql > 10` broke the ability to use multiple endpoints when modules depend on each other.
 
 ## Instructions
